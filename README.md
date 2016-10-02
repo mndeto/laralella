@@ -1,5 +1,5 @@
 # Laralella
-Laravel + Gentelella = laralella
+Laralella = [Laravel](https://github.com/laravel/laravel) + [Gentelella](https://github.com/puikinsh/gentelella)
 
 
 ##Laravel
