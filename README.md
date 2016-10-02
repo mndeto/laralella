@@ -1,0 +1,2 @@
+# laralella
+Laravel + Gentelella = laralella
